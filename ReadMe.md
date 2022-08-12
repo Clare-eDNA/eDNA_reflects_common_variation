@@ -12,3 +12,4 @@ DataMunge-eDNAamplicon.R reads in the OTU table (Paua.eDNA.ee10.csv) and makes s
 eDNA-Paua-Graphs.R helps to create graphs for the paper.
 
 Haplotype Accumulation graph and Maps are stand-alone.
+To analyze mitochondrial tissue samples, the Eager Pipeline was used and can be referred to here: https://nf-co.re/eager or https://github.com/nf-core/eager
