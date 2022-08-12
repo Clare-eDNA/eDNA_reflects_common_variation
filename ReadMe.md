@@ -1,6 +1,6 @@
 # eDNA reflects common variation
 
-Please cite the paper if any of this was useful to you.
+Please cite the paper if any of this was useful to you. This work was made possible by our Māori partners at the East Otago Taiāpure. Please ensure you are properly consulting if requesting the data from the Aotearoa Genomics Data Repository.
 
 Please consider using the files in the order of: 
 
